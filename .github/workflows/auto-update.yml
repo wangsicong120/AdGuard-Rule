@@ -40,8 +40,8 @@ jobs:
           else
             echo "status=success" >> $GITHUB_OUTPUT
             git add .
-            git config --local user.email "wangsicong120@gmail.com"
-            git config --local user.name "WINNIC"
+            git config --local user.email "GITHUBEMAIL"
+            git config --local user.name "GITHUBUSERNAME"
             git commit -m "CI Updated at $(date +'%Y-%m-%d %H:%M:%S')" -a
           fi
 
@@ -49,7 +49,7 @@ jobs:
         if: steps.commit.outputs.status == 'success' && !cancelled()
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{secrets.GITHUB_TOKEN}}
+          github_token: ${{secrets.GITHUBTOKEN}}
           branch: ${{github.ref}}
 
       - name: Mirror Refresh
