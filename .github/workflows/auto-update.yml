@@ -40,8 +40,8 @@ jobs:
           else
             echo "status=success" >> $GITHUB_OUTPUT
             git add .
-            git config --local user.email "GITHUBEMAIL"
-            git config --local user.name "GITHUBUSERNAME"
+            git config --local user.email "wangsicong120@gmail.com"
+            git config --local user.name "wangsicong120"
             git commit -m "CI Updated at $(date +'%Y-%m-%d %H:%M:%S')" -a
           fi
 
@@ -59,7 +59,7 @@ jobs:
       - name: Delete Workflow Runs
         uses: Mattraks/delete-workflow-runs@v2
         with:
-          token: ${{ github.token }}
+          token: ${{ GITHUBTOKEN }}
           repository: ${{ github.repository }}
           retain_days: 1
           keep_minimum_runs: 1
