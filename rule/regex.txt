@@ -1,4 +1,4 @@
-# Update time: 2025-02-26 08:40:45
+# Update time: 2025-02-26 20:17:54
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -161,6 +161,7 @@ advertisers.js|
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
+||ad*.aginomoto.com
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
@@ -169,7 +170,9 @@ analytics-*.aasaam.com
 ||gtmdev.jabra.
 ||tracking.olx.
 ||teleriumads-*.netdna-ssl.com^
+||rgfftupf.
 ||adservice.google.
+||counter*.stat.ovh^
 |load.sst.
 ||mssdk*.tiktokw.us^
 ||host*.carl-ras.dk^
@@ -233,14 +236,12 @@ analytics-*.aasaam.com
 ||flurry.agentportal.*.yahoodns.net^
 ||rtlog*.tiktokv.com^
 ||logservice-*.platform.dbankcloud.cn^
-||clickstream-*.homedepot.com^
 ||log*-normal-useast1a.lemon8-app.com^
 ||stat*.1internet.tv^
 ||rb*.design.ru^
 ||log*.byteoversea.com^
 ||mon*-misc-lf.fqnovel.com^
 ||logs*.smithsonian.museum^
-||cs*.mp3bars.com^
 ||bar*.shinobi.jp^
 ||counter*.freecounter.ovh^
 ||tracking-v*.a.run.app^
@@ -287,11 +288,8 @@ analytics-*.aasaam.com
 ||mcs-*.lemon8-app.us^
 ||analytics.ahrefs.
 ||s*.adduplex.com^
-||collect-elb-*.amazonaws.com^
-||collector-*.tvsquared.com^
 ||adserver1.
 ||log-*.previewnetworks.com^
-||counter*-yadro*-ru.unblocked.lol^
 ||backstory.ebay.
 ||adx-*.dbankcloud.
 ||pop-parad.
@@ -310,12 +308,12 @@ analytics-*.aasaam.com
 ||mf*.advantage.as^
 ||query*.petametrics.com^
 ||button.blogs.yandex.
+||fxhpaoxqyajvmdg.
 ||flurry.agentportal-*.yahoodns.net^
 ||zbb.bbb.*.pics^
 ||host*.rigbyandpeller.com^
 ||servo-report.keepstreams.*^
 ||tw*.netcore.co.in^
-||clog*.yuanfudao.com^
 ||creative*.bidease.com^
 ||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
 ||mapi-log.qoo*.jp^
@@ -336,7 +334,6 @@ analytics-*.aasaam.com
 ||u*.takru.com^
 ||rtbimp-loadbalancer-*.amazonaws.com^
 ||www.fuze-sea*.xyz^
-||browser-intake-*-datadoghq.com^
 ||metrics*.fitanalytics.com^
 ||edgetrksvc.ebay.
 ||eclog*-*.cafe24.com^
@@ -363,7 +360,6 @@ analytics-*.aasaam.com
 ||1024wanzhai.
 ||under-click.
 ||mon*-*.tiktokv.com^
-||collector-*.px-client.net^
 ||log-*.epicdn.me^
 ||metric*.rediff.com^
 ||tnc*.zijieapi.com^
@@ -408,15 +404,14 @@ analytics-*.aasaam.com
 ||events-*.op.hicloud.com^
 ||vst.videolink.
 ||158.247.208.
-||banner.*.tccapis.com^
 ||geoloc*.geostats.ovh^
 |load.gtm.
 ||ssp*.rtb.beeline.ru^
 ||stats*.videonow.ru^
 ||pixel.archive.
 ||log-*.zadn.vn^
+||reachableads-av.*.amazonaws.com^
 ||ad*.thisisgame.com^
-||collect-v*.51.la^
 ||q*-publick.club^
 ||logger-*.dailymotion.com^
 ||iad-*.appboy.com^
@@ -427,7 +422,6 @@ analytics-*.aasaam.com
 ||snowplow-collector-*.amazonaws.com^
 ||ms*.applvn.com^
 ||thegreatesthits.
-||iad-*.braze.com^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||tracking-*.trnox.com^
 ||snowplow-collector.
@@ -441,9 +435,10 @@ analytics-*.aasaam.com
 ||rotator.
 ||pixel-*.convertagain.net^
 ||collector.xhamster*.
-||collector*.ex.co^
 ||poptraf.
 ||v*.sitecounter.site^
+||imgpfx.arenavision.
+||player-feedback*.glomex.*^
 ||da.hornbach.*^
 ||cloudservice*.kingsoft-office-service.com^
 ||dm-*.toutiao.com^
@@ -546,40 +541,10 @@ analytics-*.aasaam.com
 @@||tongji.*kuwo.cn^
 ||gg*.51cto.com^
 ||tracker*.qcloud.com^
-||ad*.aginomoto.com
-||imgpfx.arenavision.
-||player-feedback*.glomex.*^
-<script>
-            pageOptions
-    xhr.send();
-            } else {
-h1 {
-	}
-        loadFeed(...getLoadFeedArguments());
-    function getLoadFeedArguments() {
-                arguments.push(this[possibleArguments[i]]);
-        }
-};
-			Buy this domain. | More domains at Seo.Domains
-                }
-            2025 Copyright | All Rights Reserved.
-                console.log(JSON.parse(xhr.responseText))
-<style>
-        ];
-<head>
-    Privacy Policy
-    }
-                    return;
-    };
-    <script>
-<!DOCTYPE html>
-body {
-                console.log('There was a problem with the request.');
-            }
-        return arguments;
-}
+||us.*.qwadro.com^
 ||pangolin-sdk-toutiao*.com^
 ||ping*.qq.com^
+||clog*.yuanfudao.com^
 ||cj1*.online^
 ||sd.yhzzzs*.com^
 ||w*.*skwai.com^
@@ -592,6 +557,7 @@ body {
 ||zazgiyoh*.world^
 ||collector-*.us.tvsquared.com^
 ||zazgbqg*.xyz^
+||browser-intake-*-datadoghq.com^
 ||v*.denakop.com^
 ||ads*.zijieapi.com^
 ||opnked*.xyz^
@@ -626,6 +592,7 @@ body {
 ||ac*.pingguolv.com^
 ||acr-*-prd.samsungcloud.tv^
 ||api*.batmobil.net^
+||collector-*.px-client.net^
 ||ej1*.online^
 ||mistat.*.xiaomi.com^
 ||stat.*.v-56.com^
@@ -639,12 +606,13 @@ body {
 ||ac*.faxingchina.com^
 ||ads.*.kugou.com^
 ||api-*.bidmachine.io^
+||clickstream-*.homedepot.com^
 ||dj1*.online^
 ||ad.*.xiaomi.com^
 ||adcs-*.myappsget.com^
 ||ads*.textra.me^
-||us.*.qwadro.com^
 ||aj2*.online^
+||cs*.mp3bars.com^
 ||zazgiyoh*.xyz^
 ||zcchyw*.xyz^
 ||log*-misc-lq.amemv.com^
@@ -674,6 +642,7 @@ body {
 ||promo-*.vercel.app^
 ||163487*.qmgmw.com^
 ||adx-*.dbankedge.cn^
+||banner.*.tccapis.com^
 ||tblog-*.kgslb.com^
 ||cdn-adn-*.rayjump.com^
 ||zahrvfbd*.xyz^
@@ -681,6 +650,7 @@ body {
 ||zcchyr*.xyz^
 ||js.*2023*.live^
 ||zaqlovh*.xyz^
+||collect-v*.51.la^
 ||n*adserv.xyz^
 ||adsfilebssdlbig.*.kugou.com^
 ||bdlm*.hc360.com^
@@ -690,8 +660,12 @@ body {
 ||chat*-ce.chatdealer.jp^
 ||util-*.simply-hentai.com^
 ||aan.amazon.*^
+||collect-elb-*.amazonaws.com^
 ||collector-*.px-cloud.net^
+||iad-*.braze.com^
+||collector-*.tvsquared.com^
 ||bjsvp*.space^
+||counter*-yadro*-ru.unblocked.lol^
 ||mads*z.com^
 ||gtlpa*.com^
 ||auth-*.hismarttv.com^
@@ -708,20 +682,17 @@ body {
 ||analytics*.prezly.com^
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
+||collector*.ex.co^
 ||analytics.*.sky.com^
-||reachableads-av.*.amazonaws.com^
 ||ads*.opensubtitles.org^
+||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
 @@||adobeid-*.services.adobe.com^
-||fapnado.*.php|
-||itechpost.com*adbk
-||rgfftupf.
-@@||cdn*.porn300.com^
-||gamenguide.com*adbk
-||counter*.stat.ovh^
 ||centent.streamp1ay.
 ||ads.livetv*.me^
 ||142.91.159.
-||fxhpaoxqyajvmdg.
+||fapnado.*.php|
+||itechpost.com*adbk
+@@||cdn*.porn300.com^
 ||cintent.streanplay.
 Banner468x60
