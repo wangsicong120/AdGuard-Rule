@@ -1,4 +1,4 @@
-# Update time: 2025-03-28 20:18:59
+# Update time: 2025-03-29 08:43:19
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -64,6 +64,7 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
+||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -96,7 +97,6 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
-||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -351,6 +351,7 @@ body {
 ||logservice-*.platform.dbankcloud.cn^
 ||clickstream-*.homedepot.com^
 ||log*-normal-useast1a.lemon8-app.com^
+||stat*.1internet.tv^
 ||dj1*.online^
 ||log*.byteoversea.com^
 ||ad.*.xiaomi.com^
@@ -429,6 +430,7 @@ body {
 ||ad*.on.cc^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||rtlog*.tiktokv.us^
+||st-*.dynamicyield.com^
 ||host*.ncoi.nl^
 ||lively-collect-elb-*.amazonaws.com^
 ||analytics-rollout-*.amazonaws.com^
@@ -440,6 +442,7 @@ body {
 ||ads*.zijieapi.com^
 ||host*.polaroid.com^
 ||www.xxmh*.com^
+||staging-*.ispot.tv^
 ||cas.*.criteo.com^
 ||datacollector-*.dt.dbankcloud.cn^
 ||n*adserv.com^
@@ -506,6 +509,7 @@ body {
 ||promo-*.vercel.app^
 ||banner.*.tccapis.com^
 ||geoloc*.geostats.ovh^
+||ssp*.rtb.beeline.ru^
 ||log-*.zadn.vn^
 ||qn-*pcdn.cdn.msstatic.com^
 ||js.*2023*.live^
@@ -544,7 +548,6 @@ analytics-*.aasaam.com
 ||iphone-caviar.ru*entranceId
 ||w*statistics.info^
 ||v*-ad.video.yximgs.com^
-||st-*.dynamicyield.com^
 ||bondzgi*.
 ||prebid-*.rubiconproject.com^
 ||rum*.cdnvideo.ru^
@@ -565,7 +568,6 @@ analytics-*.aasaam.com
 ||stats.zone-telechargement.
 ||eclog*-*.cafe24.com^
 ||clk.rtpdn*.com^
-||staging-*.ispot.tv^
 ||flipflapflo.
 ||gonews*.net^
 ||real*traf.ru^
@@ -618,7 +620,6 @@ analytics-*.aasaam.com
 ||adimg*.search.naver.net^
 ||log*.zijieapi.com^
 ||icq-window.
-||stat*.1internet.tv^
 ||icqwindow.
 ||rb*.design.ru^
 ||st-n.ads*-adnow.com^
@@ -665,7 +666,6 @@ analytics-*.aasaam.com
 ||poshalim.
 ||158.247.208.
 |load.gtm.
-||ssp*.rtb.beeline.ru^
 ||stats*.videonow.ru^
 ||pixel.archive.
 ||track.tiara.
