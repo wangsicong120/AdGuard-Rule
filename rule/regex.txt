@@ -1,4 +1,4 @@
-# Update time: 2025-03-31 08:46:44
+# Update time: 2025-03-31 20:19:32
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -55,7 +55,6 @@
 ||avito.avito.avito.
 ||yandex.pay.avito.
 ||report.*.qq.com^
-||onetrust.
 ||allyes.
 ||icast.
 ||gg.
@@ -75,6 +74,7 @@
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
+||onetrust.
 ||adx.
 ||adx-
 ||adsfs.
@@ -164,35 +164,6 @@ advertisers.js|
 ||ad*.aginomoto.com
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
-<script>
-            pageOptions
-    xhr.send();
-            } else {
-h1 {
-	}
-        loadFeed(...getLoadFeedArguments());
-    function getLoadFeedArguments() {
-                arguments.push(this[possibleArguments[i]]);
-        }
-};
-			Buy this domain. | More domains at Seo.Domains
-                }
-            2025 Copyright | All Rights Reserved.
-                console.log(JSON.parse(xhr.responseText))
-<style>
-        ];
-<head>
-    Privacy Policy
-    }
-                    return;
-    };
-    <script>
-<!DOCTYPE html>
-body {
-                console.log('There was a problem with the request.');
-            }
-        return arguments;
-}
 ||da.hornbach.*^
 ||cloudservice*.kingsoft-office-service.com^
 ||dm-*.toutiao.com^
@@ -385,6 +356,7 @@ body {
 ||mcs-*.lemon8-app.com^
 ||cdn-adn-*.rayjump.com^
 ||zahrvfbd*.xyz^
+||stlog*-local.kakao.com^
 ||adx-*.op.dbankcloud.com.edgekey.net^
 ||p2pup*.gamedl.qq.com^
 ||zcchyr*.xyz^
@@ -533,7 +505,6 @@ body {
 ||aj2*.bid^
 ||analytics*.prezly.com^
 ||collector*.ex.co^
-||tnc16-*.byteoversea.com^
 ||adserver*.euroweeklynews.com^
 analytics-*.aasaam.com
 ||an.yandex.
@@ -670,7 +641,6 @@ analytics-*.aasaam.com
 ||stats*.videonow.ru^
 ||pixel.archive.
 ||track.tiara.
-||stlog*-local.kakao.com^
 ||orbit*.lun.ua^
 ||popupclick.
 ||ad*.thisisgame.com^
@@ -705,6 +675,7 @@ analytics-*.aasaam.com
 ||broredir*s.site^
 ||admulti.
 ||parkdomainreal*.site^
+||tnc16-*.byteoversea.com^
 ||mobiadvert*.livesportmedia.eu^
 ||popunder.
 ||livetracker.*.pangea-cms.com^
@@ -735,3 +706,32 @@ rgmechanicsgames.com*VPN.exe
 ||fxhpaoxqyajvmdg.
 ||cintent.streanplay.
 Banner468x60
+            2025 Copyright | All Rights Reserved.
+<style>
+<head>
+    Privacy Policy
+    }
+    };
+h1 {
+	}
+        loadFeed(...getLoadFeedArguments());
+                arguments.push(this[possibleArguments[i]]);
+<!DOCTYPE html>
+body {
+}
+			Buy this domain. | More domains at Seo.Domains
+                }
+                console.log(JSON.parse(xhr.responseText))
+        ];
+<script>
+            pageOptions
+    xhr.send();
+                    return;
+            } else {
+    function getLoadFeedArguments() {
+    <script>
+        }
+                console.log('There was a problem with the request.');
+            }
+        return arguments;
+};
